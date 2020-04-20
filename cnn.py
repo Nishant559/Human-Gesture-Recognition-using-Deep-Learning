@@ -4,14 +4,6 @@ Created on Sat Jan 18 10:02:09 2020
 
 @author: Nishant
 """
-
-
-"""
-
-
-@author: Nishant
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 import os
